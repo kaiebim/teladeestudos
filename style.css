@@ -1,0 +1,47 @@
+body{
+    background-color: #f4d04f;
+    font-family: Verdana;
+}
+
+.card {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: white;
+  border: 1px solid black;
+  width: 37.5%;
+  height: 21%;
+  border-radius: 15px;
+  
+}
+
+.imagem {
+  display: table;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.yellow{
+    
+    margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px;
+    padding: 2px 8px;
+    background-color: #f4d04f;
+    border-radius: 5px;
+}
+
+.gray{
+    color: gray;
+}
+
+.avatars{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
